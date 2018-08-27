@@ -9,8 +9,8 @@ setup(
     name    = 'powernad',
     version = '0.6.6',
     packages=find_packages(),
-    author = 'devkingsejong',
-    author_email = 'devkingsejong@gmail.com',
+    author = 'jaehoonism',
+    author_email = 'jaehoonism@gmail.com',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Topic :: Software Development :: Libraries',
